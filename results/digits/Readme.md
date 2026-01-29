@@ -1,1 +1,1 @@
-## Upload the model and other results related to the digits here.
+## Upload the model and other results related to the Digits here.
